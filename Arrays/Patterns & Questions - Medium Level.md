@@ -1,0 +1,207 @@
+# Array DSA Patterns - Medium Level LeetCode Practice
+
+This repository contains **medium-level array problems** covering **all essential DSA patterns**.  
+It is designed for learners who have mastered the easy problems and want to **strengthen their problem-solving skills** for coding interviews.
+
+---
+
+## Table of Contents
+
+1. [Sliding Window](#sliding-window)
+2. [Two Pointers](#two-pointers)
+3. [Prefix Sum](#prefix-sum)
+4. [Hashing / Frequency Count](#hashing--frequency-count)
+5. [Sorting-Based Patterns](#sorting-based-patterns)
+6. [Binary Search on Arrays](#binary-search-on-arrays)
+7. [Greedy](#greedy)
+8. [Matrix / 2D Array](#matrix--2d-array)
+9. [In-Place Modification](#in-place-modification)
+10. [Kadane / Maximum Subarray](#kadane--maximum-subarray)
+11. [Monotonic Stack](#monotonic-stack)
+12. [Miscellaneous Classic Problems](#miscellaneous-classic-problems)
+
+---
+
+## Sliding Window
+
+**Patterns:**
+- Variable-size window  
+- Longest/shortest subarray with conditions  
+- Sliding window for substrings
+
+**Medium LeetCode Problems:**
+- [Longest Substring Without Repeating Characters](https://leetcode.com/problems/longest-substring-without-repeating-characters/) (LC 3)  
+- [Minimum Window Substring](https://leetcode.com/problems/minimum-window-substring/) (LC 76)  
+- [Sliding Window Maximum](https://leetcode.com/problems/sliding-window-maximum/) (LC 239)  
+- [Subarrays with K Different Integers](https://leetcode.com/problems/subarrays-with-k-different-integers/) (LC 992)
+
+---
+
+## Two Pointers
+
+**Patterns:**
+- Opposite ends or adjacent comparisons  
+- Removing duplicates or rearranging  
+- Sorting + two pointer techniques
+
+**Medium LeetCode Problems:**
+- [3Sum](https://leetcode.com/problems/3sum/) (LC 15)  
+- [Container With Most Water](https://leetcode.com/problems/container-with-most-water/) (LC 11)  
+- [Trapping Rain Water](https://leetcode.com/problems/trapping-rain-water/) (LC 42)  
+- [Sort Colors](https://leetcode.com/problems/sort-colors/) (LC 75)
+
+---
+
+## Prefix Sum
+
+**Patterns:**
+- Cumulative sums  
+- Range sum queries  
+- Using hashmap for prefix sum differences
+
+**Medium LeetCode Problems:**
+- [Subarray Sum Equals K](https://leetcode.com/problems/subarray-sum-equals-k/) (LC 560)  
+- [Continuous Subarray Sum](https://leetcode.com/problems/continuous-subarray-sum/) (LC 523)  
+- [Binary Subarrays With Sum](https://leetcode.com/problems/binary-subarrays-with-sum/) (LC 930)
+
+---
+
+## Hashing / Frequency Count
+
+**Patterns:**
+- Count frequencies  
+- Detect duplicates  
+- Map-based sliding window
+
+**Medium LeetCode Problems:**
+- [Top K Frequent Elements](https://leetcode.com/problems/top-k-frequent-elements/) (LC 347)  
+- [Longest Consecutive Sequence](https://leetcode.com/problems/longest-consecutive-sequence/) (LC 128)  
+- [Group Anagrams](https://leetcode.com/problems/group-anagrams/) (LC 49)  
+
+---
+
+## Sorting-Based Patterns
+
+**Patterns:**
+- Sort + greedy  
+- Sort + two pointers  
+- Sort + binary search
+
+**Medium LeetCode Problems:**
+- [Merge Intervals](https://leetcode.com/problems/merge-intervals/) (LC 56)  
+- [Insert Interval](https://leetcode.com/problems/insert-interval/) (LC 57)  
+- [Wiggle Sort II](https://leetcode.com/problems/wiggle-sort-ii/) (LC 324)
+
+---
+
+## Binary Search on Arrays
+
+**Patterns:**
+- Element search in sorted arrays  
+- First / last occurrence  
+- Search in rotated arrays
+
+**Medium LeetCode Problems:**
+- [Search in Rotated Sorted Array](https://leetcode.com/problems/search-in-rotated-sorted-array/) (LC 33)  
+- [Find Minimum in Rotated Sorted Array](https://leetcode.com/problems/find-minimum-in-rotated-sorted-array/) (LC 153)  
+- [Median of Two Sorted Arrays](https://leetcode.com/problems/median-of-two-sorted-arrays/) (LC 4) *(advanced medium)*
+
+---
+
+## Greedy
+
+**Patterns:**
+- Interval selection  
+- Minimum/maximum operations  
+- Step-wise optimization
+
+**Medium LeetCode Problems:**
+- [Jump Game](https://leetcode.com/problems/jump-game/) (LC 55)  
+- [Gas Station](https://leetcode.com/problems/gas-station/) (LC 134)  
+- [Candy](https://leetcode.com/problems/candy/) (LC 135)
+
+---
+
+## Matrix / 2D Array
+
+**Patterns:**
+- Traverse grid  
+- Rotate / flip / spiral  
+- Dynamic programming on matrix
+
+**Medium LeetCode Problems:**
+- [Set Matrix Zeroes](https://leetcode.com/problems/set-matrix-zeroes/) (LC 73)  
+- [Rotate Image](https://leetcode.com/problems/rotate-image/) (LC 48)  
+- [Word Search](https://leetcode.com/problems/word-search/) (LC 79)
+
+---
+
+## In-Place Modification
+
+**Patterns:**
+- Reordering elements  
+- Remove duplicates  
+- Modify without extra space
+
+**Medium LeetCode Problems:**
+- [Remove Duplicates from Sorted Array II](https://leetcode.com/problems/remove-duplicates-from-sorted-array-ii/) (LC 80)  
+- [Next Permutation](https://leetcode.com/problems/next-permutation/) (LC 31)  
+- [Partition Labels](https://leetcode.com/problems/partition-labels/) (LC 763)
+
+---
+
+## Kadane / Maximum Subarray
+
+**Patterns:**
+- Maximum / minimum subarray  
+- Variants with constraints
+
+**Medium LeetCode Problems:**
+- [Maximum Product Subarray](https://leetcode.com/problems/maximum-product-subarray/) (LC 152)  
+- [Maximum Sum Circular Subarray](https://leetcode.com/problems/maximum-sum-circular-subarray/) (LC 918)
+
+---
+
+## Monotonic Stack
+
+**Patterns:**
+- Next greater/smaller element  
+- Spans  
+- Stack for range queries
+
+**Medium LeetCode Problems:**
+- [Daily Temperatures](https://leetcode.com/problems/daily-temperatures/) (LC 739)  
+- [Trapping Rain Water](https://leetcode.com/problems/trapping-rain-water/) (LC 42)  
+- [Largest Rectangle in Histogram](https://leetcode.com/problems/largest-rectangle-in-histogram/) (LC 84)
+
+---
+
+## Miscellaneous Classic Problems
+
+**Medium LeetCode Problems:**
+- [Product of Array Except Self](https://leetcode.com/problems/product-of-array-except-self/) (LC 238)  
+- [Find All Duplicates in an Array](https://leetcode.com/problems/find-all-duplicates-in-an-array/) (LC 442)  
+- [Spiral Matrix](https://leetcode.com/problems/spiral-matrix/) (LC 54)
+
+---
+
+## Learning Roadmap
+
+1. Strengthen your **easy array patterns** first if not done.  
+2. Start with **medium sliding window & two pointer problems**.  
+3. Progress to **hashing, prefix sum, and sorting patterns**.  
+4. Explore **matrix & monotonic stack problems**.  
+5. Attempt **Kadane’s, greedy, and tricky in-place modifications**.  
+6. Consolidate with **classic medium-level problems**.
+
+---
+
+## Contributing
+
+Add more **medium-level problems**, **solutions**, or **optimized approaches** to improve the repository.
+
+---
+
+## Author
+
+Created with ❤️ to advance mastery of **Array DSA Patterns** for **interviews and competitive programming**.
